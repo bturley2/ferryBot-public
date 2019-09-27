@@ -108,3 +108,8806 @@ Afternoon times successfully checked.
 2019-08-24 18:17:40.465855
 Morning times successfully checked.
 Afternoon times successfully checked.
+
+
+2019-08-28 11:45:31.450665
+Located an available slot at 8:00 am! Sending automated message.
+Morning times successfully checked.
+Located an available slot at 5:10 pm! Sending automated message.
+Afternoon times successfully checked.
+
+
+2019-09-03 20:59:47.624418
+An error occurred. Closing browser instance.
+
+
+2019-09-04 08:58:47.053217
+An error occurred. Closing browser instance.
+
+
+2019-09-04 09:16:12.093047
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-04 11:10:23.313970
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-04 11:13:16.330044
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-04 11:25:08.221693
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-04 11:26:49.077055
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-04 11:35:57.008470
+
+
+2019-09-04 11:37:00.183192
+
+
+2019-09-04 11:37:46.694699
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-04 20:33:01.937465
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-04 20:34:02.443652
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-04 20:35:02.156222
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-04 20:36:01.987236
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-04 20:40:02.130822
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-05 09:06:18.407756
+An error occurred. Closing browser instance.
+
+
+2019-09-05 09:10:18.564562
+An error occurred. Closing browser instance.
+
+
+2019-09-05 09:11:07.856038
+An error occurred. Closing browser instance.
+
+
+2019-09-05 09:12:10.918867
+Morning times successfully checked.
+
+
+2019-09-05 09:12:34.761716
+Morning times successfully checked.
+
+
+2019-09-05 12:31:32.309600
+Morning times successfully checked.
+
+
+2019-09-05 12:43:09.766889
+Morning times successfully checked.
+
+
+2019-09-05 12:44:48.185158
+Morning times successfully checked.
+
+
+2019-09-05 12:46:59.649656
+Morning times successfully checked.
+
+
+2019-09-05 12:47:54.045135
+Morning times successfully checked.
+
+
+2019-09-05 12:59:24.241611
+Morning times successfully checked.
+
+
+2019-09-05 13:36:14.429854
+An error occurred. Closing browser instance.
+
+
+2019-09-05 13:37:46.661611
+Morning times successfully checked.
+
+
+2019-09-05 13:40:29.755837
+Morning times successfully checked.
+
+
+2019-09-05 13:41:07.093391
+Morning times successfully checked.
+
+
+2019-09-05 13:43:09.895802
+An error occurred. Closing browser instance.
+
+
+2019-09-05 13:43:40.166721
+Morning times successfully checked.
+
+
+2019-09-05 13:44:37.919165
+Morning times successfully checked.
+
+
+2019-09-05 13:52:59.283788
+An error occurred. Closing browser instance.
+
+
+2019-09-05 13:56:51.147549
+Morning times successfully checked.
+
+
+2019-09-05 13:57:29.660796
+Morning times successfully checked.
+
+
+2019-09-05 14:01:23.991861
+Morning times successfully checked.
+
+
+2019-09-05 14:04:38.852418
+An error occurred. Closing browser instance.
+
+
+2019-09-05 14:05:26.415475
+An error occurred. Closing browser instance.
+
+
+2019-09-05 14:06:04.068664
+An error occurred. Closing browser instance.
+
+
+2019-09-05 14:08:00.432452
+Morning times successfully checked.
+
+
+2019-09-05 14:09:49.341191
+Morning times successfully checked.
+
+
+2019-09-05 14:12:56.608540
+Morning times successfully checked.
+
+
+2019-09-05 14:16:16.891575
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-05 14:17:49.911414
+Morning times successfully checked.
+Located an available slot at 6:07 am! Sending automated message.
+Located an available slot at 6:07 am! Sending automated message.
+Located an available slot at 6:07 am! Sending automated message.
+Located an available slot at 6:07 am! Sending automated message.
+Located an available slot at 6:07 am! Sending automated message.
+Afternoon times successfully checked.
+
+
+2019-09-05 14:19:44.209756
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-05 14:19:52.891536
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-05 20:41:08.134474
+An error occurred. Closing browser instance.
+
+
+2019-09-05 22:17:58.281956
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-06 19:02:32.337692
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-06 19:10:01.719526
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-06 19:20:02.380572
+An error occurred. Closing browser instance.
+
+
+2019-09-06 19:30:02.314296
+An error occurred. Closing browser instance.
+
+
+2019-09-06 19:32:26.108549
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-06 19:40:02.369121
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-06 19:50:01.949920
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-06 20:00:02.570036
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-06 20:10:02.267990
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-06 20:20:02.334303
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-06 20:30:02.480820
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-06 20:40:02.086526
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-06 20:50:02.418802
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-06 21:00:02.568893
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-06 21:10:02.388082
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-06 21:20:02.410024
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-06 21:30:02.581844
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-06 21:40:02.344563
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-06 21:50:02.520646
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 06:00:02.184809
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 06:10:01.801946
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 06:20:01.851121
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 06:30:02.521038
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 06:40:02.204745
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 06:50:01.824756
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 07:00:02.471263
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 07:10:01.950578
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 07:20:02.090831
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 07:30:02.486668
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 07:40:01.602364
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 07:50:02.270235
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 08:00:02.059855
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 08:10:01.931937
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 08:20:01.774726
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 08:30:02.730144
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 08:40:02.465454
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 08:50:02.179234
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 09:00:02.212377
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 09:10:02.084700
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 09:20:01.726997
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 09:30:02.464331
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 09:40:02.461209
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 09:50:02.608731
+An error occurred. Closing browser instance.
+
+
+2019-09-07 10:00:02.737082
+An error occurred. Closing browser instance.
+
+
+2019-09-07 10:10:02.274786
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 10:20:02.564887
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 10:30:02.362290
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 10:40:02.143343
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 10:50:01.953243
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 11:00:02.608250
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 11:10:01.896483
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 11:20:02.654072
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 11:30:02.166119
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 11:40:02.337080
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 11:50:02.480936
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 12:00:02.392447
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 12:10:02.058507
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 12:20:02.584427
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 12:30:02.182676
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 12:40:02.382370
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 12:50:02.371890
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 13:00:02.240897
+An error occurred. Closing browser instance.
+
+
+2019-09-07 13:10:01.828886
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 13:20:02.216203
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 13:30:02.571366
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 13:40:02.065034
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 13:50:01.915715
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 14:00:02.523534
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 14:10:01.633341
+An error occurred. Closing browser instance.
+
+
+2019-09-07 14:20:02.304822
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 14:30:02.500964
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 14:40:02.398291
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 14:50:02.126229
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 15:00:02.592492
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 15:10:02.107488
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 15:20:02.472842
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 15:30:02.544588
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 15:40:02.519817
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 15:50:02.129143
+Morning times successfully checked.
+Located an available slot at 5:10 pm! Sending automated message.
+Afternoon times successfully checked.
+
+
+2019-09-07 16:00:02.549936
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-07 16:10:02.003059
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-07 16:20:01.223036
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 16:30:01.650477
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 16:40:02.381837
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 16:50:01.601730
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 17:00:02.389028
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 17:10:01.475724
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 17:20:01.678477
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 17:30:02.285799
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 17:40:01.843519
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 17:50:02.298513
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 18:00:02.576193
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 18:10:01.627529
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 18:20:02.184304
+Located an available slot at 6:45 am! Sending automated message.
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 18:30:02.656506
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-07 18:40:01.882598
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 18:50:01.467375
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 19:00:01.725060
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 19:10:01.842440
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 19:20:01.996257
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 19:30:02.396525
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 19:40:02.552771
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 19:50:01.958035
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 20:00:02.684357
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 20:10:02.233384
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 20:20:02.326920
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 20:30:01.844023
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 20:40:01.979030
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 20:50:02.433132
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 21:00:02.491904
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 21:10:02.032974
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 21:20:01.603038
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 21:30:02.670360
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 21:40:02.374695
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-07 21:50:02.042790
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 06:00:01.915768
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 06:10:02.257697
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 06:20:01.784412
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 06:30:02.393928
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 06:40:02.145744
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 06:50:02.021884
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 07:00:02.446272
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 07:10:02.627574
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 07:20:02.619993
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 07:30:02.297563
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 07:40:02.496820
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 07:50:02.202628
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 08:00:02.521464
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 08:10:01.792246
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 08:20:02.272772
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 08:30:02.636557
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 08:40:02.347295
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 08:50:02.127427
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 09:00:02.500930
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 09:10:01.906410
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 09:20:01.790967
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 09:30:01.951827
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 09:40:01.931003
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 09:50:02.182612
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 10:00:02.969613
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 10:10:01.904750
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 10:20:02.110499
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 10:30:02.444466
+An error occurred. Closing browser instance.
+
+
+2019-09-08 10:40:01.950969
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 10:50:02.234007
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 11:00:02.177004
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 11:10:02.378263
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 11:20:01.974310
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 11:30:02.538708
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 11:40:01.792134
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 11:50:02.258418
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 12:00:02.187441
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 12:10:02.426854
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 12:20:02.024673
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 12:30:01.750530
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 12:40:02.068880
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 12:50:02.446062
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 13:00:02.088895
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 13:10:01.604671
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 13:20:02.464096
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 13:30:02.714420
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 13:40:01.958889
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 13:50:01.798338
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 14:00:02.538464
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 14:10:01.898807
+Morning times successfully checked.
+An error occurred. Closing browser instance.
+
+
+2019-09-08 14:20:01.881190
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 14:30:02.396395
+An error occurred. Closing browser instance.
+
+
+2019-09-08 14:40:02.164138
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 14:50:01.831517
+An error occurred. Closing browser instance.
+
+
+2019-09-08 15:00:01.949199
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 15:10:02.390464
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 15:20:02.074573
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 15:30:02.527763
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 15:40:02.074203
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 15:50:02.415339
+An error occurred. Closing browser instance.
+
+
+2019-09-08 16:00:02.421565
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 16:10:02.271103
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 16:20:01.833987
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 16:30:02.399195
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 16:40:02.220283
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 16:50:02.288777
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 17:00:02.482267
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 17:10:01.892793
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 17:20:01.743991
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 17:30:02.576322
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 17:40:01.921300
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 17:50:02.194585
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 18:00:02.599086
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 18:10:02.698634
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 18:20:02.434872
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 18:30:02.331960
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 18:40:01.858949
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 18:50:02.487955
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 19:00:02.313934
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 19:10:02.243790
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 19:20:01.732929
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 19:30:02.474308
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 19:40:02.032909
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 19:50:02.329062
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 20:00:02.398512
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 20:10:02.520898
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 20:20:02.228607
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 20:30:02.486843
+Morning times successfully checked.
+Located an available slot at 5:10 pm! Sending automated message.
+Afternoon times successfully checked.
+
+
+2019-09-08 20:40:01.963268
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 20:50:01.942302
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 21:00:02.252568
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 21:10:02.231104
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 21:20:02.104969
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 21:30:01.715860
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 21:40:01.886209
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-08 21:50:02.499472
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 06:00:02.270788
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 06:10:02.617143
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 06:20:02.371793
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 06:30:02.685977
+An error occurred. Closing browser instance.
+
+
+2019-09-09 06:40:01.963297
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 06:50:02.062053
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 07:00:02.299295
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 07:10:02.265407
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 07:20:02.294430
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 07:30:02.536216
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 07:40:02.273103
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 07:50:02.363795
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 08:00:02.359231
+Morning times successfully checked.
+An error occurred. Closing browser instance.
+
+
+2019-09-09 08:10:01.669920
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 08:20:02.197809
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 08:30:02.234832
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 08:40:01.788973
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 08:50:01.610605
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 09:00:02.444298
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 09:10:01.652973
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 09:20:01.620880
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 09:30:02.508968
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 09:40:02.203866
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 09:50:01.825648
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 10:00:02.314038
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 10:10:02.081985
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 10:20:02.117755
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 10:30:02.627008
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 10:40:01.806669
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 10:50:02.109777
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 11:00:02.591846
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 11:10:02.338426
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 11:20:02.286638
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 11:30:02.650325
+An error occurred. Closing browser instance.
+
+
+2019-09-09 11:40:02.502849
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 11:50:01.681292
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 12:00:02.755795
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 12:10:01.895304
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 12:20:02.581925
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 12:30:02.687627
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 12:40:02.231462
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 12:50:02.236486
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 13:00:02.796428
+An error occurred. Closing browser instance.
+
+
+2019-09-09 13:10:02.002615
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 13:20:02.487542
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 13:30:02.520928
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 13:40:02.371520
+An error occurred. Closing browser instance.
+
+
+2019-09-09 13:50:02.220458
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 14:00:02.436065
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 14:10:01.861437
+An error occurred. Closing browser instance.
+
+
+2019-09-09 14:20:02.655467
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 14:30:02.669599
+An error occurred. Closing browser instance.
+
+
+2019-09-09 14:40:01.956185
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 14:50:02.035650
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 15:00:02.685799
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 15:10:02.015243
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 15:20:01.828278
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 15:30:02.496675
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 15:40:02.173975
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 15:50:02.301205
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 16:00:02.398199
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 16:10:02.669527
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 16:20:01.978817
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 16:30:02.553871
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 16:40:01.961760
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 16:50:02.348136
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 17:00:02.744246
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 17:10:01.657293
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 17:20:01.963866
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 17:30:02.468737
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 17:40:01.846384
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 17:50:01.929147
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 18:00:02.782557
+An error occurred. Closing browser instance.
+
+
+2019-09-09 18:10:02.011960
+An error occurred. Closing browser instance.
+
+
+2019-09-09 18:20:02.307321
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 18:30:02.530407
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 18:40:02.401366
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 18:50:02.086997
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 19:00:02.459498
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 19:10:02.237050
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 19:20:02.226491
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 19:30:02.551803
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 19:40:02.519240
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 19:50:02.341634
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 20:00:02.546847
+Located an available slot at 6:45 am! Sending automated message.
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 20:10:01.478368
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 20:20:01.688924
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 20:30:02.022417
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 20:40:02.397676
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 20:50:01.442495
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 21:00:02.421683
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 21:10:01.964440
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 21:20:02.128567
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 21:30:01.603187
+An error occurred. Closing browser instance.
+
+
+2019-09-09 21:40:01.897346
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-09 21:50:02.145836
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 06:00:02.452487
+An error occurred. Closing browser instance.
+
+
+2019-09-10 06:10:01.898999
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 06:20:01.849432
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 06:30:02.534356
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 06:40:01.763349
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 06:50:02.068693
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 07:00:02.254184
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 07:10:01.470172
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 07:20:02.298721
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 07:30:02.376953
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 07:40:01.453012
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 07:50:01.510474
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 08:00:01.755176
+Morning times successfully checked.
+Located an available slot at 5:10 pm! Sending automated message.
+Afternoon times successfully checked.
+
+
+2019-09-10 08:10:01.984176
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-10 08:20:01.196588
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 08:30:02.486770
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 08:40:01.796129
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 08:50:02.021074
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 09:00:02.440668
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 09:10:01.527860
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 09:20:02.258395
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 09:30:02.575695
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 09:40:02.062041
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 09:50:02.411110
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 10:00:01.930504
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 10:10:02.408572
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 10:20:01.823395
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 10:30:02.187494
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 10:40:02.013299
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 10:50:02.177122
+An error occurred. Closing browser instance.
+
+
+2019-09-10 11:00:01.870620
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 11:10:02.362497
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 11:20:02.539906
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 11:30:02.192931
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 11:40:01.834197
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 11:50:02.229510
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 12:00:02.368107
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 12:10:01.720119
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 12:20:02.210790
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 12:30:02.419458
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 12:40:01.542564
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 12:50:02.419993
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 13:00:02.583261
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 13:10:02.340286
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 13:20:01.963108
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 13:30:02.435906
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 13:40:01.907903
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 13:50:01.961978
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 14:00:02.504204
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 14:10:01.957259
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 14:20:01.640108
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 14:30:02.473929
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 14:40:01.771046
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 14:50:01.853037
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 15:00:02.331358
+Morning times successfully checked.
+Located an available slot at 5:10 pm! Sending automated message.
+Afternoon times successfully checked.
+
+
+2019-09-10 15:10:02.140698
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-10 15:20:01.531392
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-10 15:30:01.988898
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-10 15:40:01.376606
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-10 15:50:01.765192
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-10 16:00:02.310145
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-10 16:10:01.783404
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-10 16:20:02.177548
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-10 16:30:01.589646
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-10 16:40:02.006583
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-10 16:50:01.395784
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-10 17:00:01.830064
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-10 17:10:02.242201
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-10 17:20:01.636855
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-10 17:30:02.260354
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-10 17:40:01.668316
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-10 17:50:02.064138
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-10 18:00:01.449852
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-10 18:10:01.876551
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-10 18:20:02.265723
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-10 18:30:01.741681
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-10 18:40:01.979654
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 18:50:02.149529
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 19:00:02.114281
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 19:10:01.512423
+An error occurred. Closing browser instance.
+
+
+2019-09-10 19:20:02.285259
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 19:30:02.338868
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 19:40:01.754845
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 19:50:02.116468
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 20:00:02.276058
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 20:10:02.350473
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 20:20:01.654942
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 20:30:02.361048
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 20:40:02.408121
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 20:50:01.770774
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 21:00:02.561397
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 21:10:01.857158
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 21:20:02.080365
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 21:30:02.467670
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 21:40:01.799877
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 21:50:02.432532
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-10 22:58:09.066827
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 06:00:02.538375
+Located an available slot at 6:45 am! Sending automated message.
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 06:10:01.675148
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-11 06:20:01.899806
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-11 06:30:02.153358
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-11 06:40:01.372975
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-11 06:50:01.586450
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 07:00:02.329573
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 07:10:02.325213
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 07:20:02.277344
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 07:30:02.259192
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 07:40:02.005933
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 07:50:02.186991
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 08:00:02.384428
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 08:10:01.437986
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 08:20:02.236522
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 08:30:02.109888
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 08:40:01.675856
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 08:50:01.595543
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 09:00:02.691120
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 09:10:02.379552
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 09:20:02.726074
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 09:30:02.469974
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 09:40:02.278153
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 09:50:01.806834
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 10:00:02.357780
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 10:10:02.204578
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 10:20:01.906560
+An error occurred. Closing browser instance.
+
+
+2019-09-11 10:30:02.601546
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 10:40:02.488253
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 10:50:02.653742
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 11:00:02.187726
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 11:10:02.307404
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 11:20:02.067095
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 11:30:02.559292
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 11:40:01.929474
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 11:50:01.933840
+An error occurred. Closing browser instance.
+
+
+2019-09-11 12:00:01.878428
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 12:10:01.742307
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 12:20:02.066393
+Morning times successfully checked.
+Located an available slot at 5:10 pm! Sending automated message.
+Afternoon times successfully checked.
+
+
+2019-09-11 12:30:02.462827
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-11 12:40:01.685155
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 12:50:02.098963
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 13:00:02.565835
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 13:10:01.848248
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 13:20:01.627951
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 13:30:02.541235
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 13:40:01.958356
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 13:50:02.067094
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 14:00:02.232966
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 14:10:01.862516
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 14:20:02.404976
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 14:30:02.616838
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 14:40:02.509013
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 14:50:01.775358
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 15:00:02.393815
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 15:10:02.423818
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 15:20:01.922052
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 15:30:02.634283
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 15:40:02.216618
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 15:50:02.137940
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 16:00:02.672305
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 16:10:01.772331
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 16:20:02.252762
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 16:30:02.624961
+Morning times successfully checked.
+Located an available slot at 5:10 pm! Sending automated message.
+Afternoon times successfully checked.
+
+
+2019-09-11 16:40:01.967013
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-11 16:50:02.353107
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-11 17:00:01.864746
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-11 17:10:02.311095
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-11 17:20:01.710973
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-11 17:30:02.189640
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-11 17:40:01.596552
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-11 17:50:02.004072
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-11 18:00:01.406544
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-11 18:10:01.838989
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-11 18:20:02.230396
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-11 18:30:01.758788
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-11 18:40:01.986201
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 18:50:01.883022
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 19:00:01.862610
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 19:10:02.132469
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 19:20:02.296296
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 19:30:01.868036
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 19:40:01.783425
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 19:50:01.962885
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 20:00:02.402685
+An error occurred. Closing browser instance.
+
+
+2019-09-11 20:10:01.891181
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 20:20:02.216394
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 20:30:02.646717
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 20:40:01.777196
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 20:50:01.991432
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 21:00:02.339386
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 21:10:01.724884
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 21:20:02.070446
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 21:30:02.214764
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 21:40:01.786470
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-11 21:50:01.952692
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 06:00:02.283958
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 06:10:01.564584
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 06:20:02.317029
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 06:30:02.457189
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 06:40:01.966695
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 06:50:02.292111
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 07:00:02.598576
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 07:10:02.332896
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 07:20:02.114941
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 07:30:02.197067
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 07:40:02.035856
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 07:50:02.332586
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 08:00:02.489277
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 08:10:01.736840
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 08:20:02.366232
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 08:30:02.570357
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 08:40:01.887317
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 08:50:01.853422
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 09:00:02.556625
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 09:10:01.878889
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 09:20:02.022407
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 09:30:02.101404
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 09:40:01.915893
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 09:50:02.243326
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 10:00:02.790005
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 10:10:02.346832
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 10:20:02.376009
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 10:30:02.237551
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 10:40:01.839682
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 10:50:02.439082
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 11:00:02.397644
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 11:10:01.757661
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 11:20:01.884273
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 11:30:02.364710
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 11:40:01.742571
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 11:50:02.240935
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 12:00:02.503939
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 12:10:02.485217
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 12:20:02.339349
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 12:30:02.649022
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 12:40:01.831628
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 12:50:02.140829
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 13:00:02.619828
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 13:10:02.380974
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 13:20:01.846443
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 13:30:02.709592
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 13:40:02.272869
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 13:50:02.329488
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 14:00:02.158868
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 14:10:02.195112
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 14:20:01.928071
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 14:30:02.737761
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 14:40:01.713400
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 14:50:01.806090
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 15:00:02.858807
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 15:10:02.079413
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 15:20:01.719657
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 15:30:02.237954
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 15:40:02.119973
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 15:50:02.022820
+Morning times successfully checked.
+Located an available slot at 5:10 pm! Sending automated message.
+Afternoon times successfully checked.
+
+
+2019-09-12 16:00:02.611529
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-12 16:10:02.083436
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-12 16:20:01.484213
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-12 16:30:01.893474
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-12 16:40:02.302182
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-12 16:50:01.696796
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-12 17:00:02.147733
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-12 17:10:01.585147
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-12 17:20:01.986748
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-12 17:30:01.381679
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-12 17:40:01.798511
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-12 17:50:02.189680
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-12 18:00:01.615670
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-12 18:10:02.050527
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-12 18:20:01.446574
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-12 18:30:01.971229
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-12 18:40:02.355730
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-12 18:50:01.749552
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-12 19:00:01.992447
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 19:10:02.421782
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 19:20:02.055494
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 19:30:02.368919
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 19:40:02.092007
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 19:50:01.798298
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 20:00:02.669440
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 20:10:01.574924
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 20:20:02.414683
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 20:30:02.381252
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 20:40:02.352654
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 20:50:02.197321
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 21:00:02.594640
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 21:10:02.268727
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 21:20:02.353059
+An error occurred. Closing browser instance.
+
+
+2019-09-12 21:30:02.376527
+An error occurred. Closing browser instance.
+
+
+2019-09-12 21:40:01.723699
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-12 21:50:01.723063
+An error occurred. Closing browser instance.
+
+
+2019-09-13 07:00:02.357360
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 07:10:02.073457
+An error occurred. Closing browser instance.
+
+
+2019-09-13 07:20:01.795484
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 07:30:02.773070
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 07:40:02.516786
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 07:50:02.445192
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 08:00:02.383799
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 08:10:02.506638
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 08:20:02.566754
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 08:30:02.192464
+An error occurred. Closing browser instance.
+
+
+2019-09-13 08:40:01.845439
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 08:50:02.171328
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 09:00:02.318756
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 09:10:02.291852
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 09:20:02.618072
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 09:30:02.605459
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 09:40:02.365339
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 09:50:02.450095
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 10:00:02.424076
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 10:10:01.877091
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 10:20:02.476749
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 10:30:02.469777
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 10:40:02.248797
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 10:50:02.537904
+An error occurred. Closing browser instance.
+
+
+2019-09-13 11:00:02.560179
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 11:10:02.800005
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 11:20:02.088211
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 11:30:02.741584
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 11:40:01.989710
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 11:50:01.973847
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 12:00:02.629275
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 12:10:02.017296
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 12:20:02.237852
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 12:30:02.924859
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 12:40:02.616056
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 12:50:02.002226
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 13:00:02.496254
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 13:10:01.984541
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 13:20:02.455798
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 13:30:02.706221
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 13:40:02.382838
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 13:50:02.314629
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 14:00:01.900272
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 14:10:02.057967
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 14:20:02.226793
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 14:30:02.235823
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 14:40:02.100833
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 14:50:02.548017
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 15:00:02.272670
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 15:10:02.413532
+An error occurred. Closing browser instance.
+
+
+2019-09-13 15:20:02.424864
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 15:30:02.397099
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 15:40:02.603336
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 15:50:01.748104
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 16:00:02.584402
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 16:10:01.950308
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 16:20:02.613779
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 16:30:02.336214
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 16:40:02.000265
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 16:50:01.857963
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 17:00:02.548845
+Morning times successfully checked.
+An error occurred. Closing browser instance.
+
+
+2019-09-13 17:10:02.381891
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 17:20:02.453105
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 17:30:02.715460
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 17:40:01.944265
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 17:50:02.288454
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 18:00:02.207266
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 18:10:02.615585
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 18:20:02.149020
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 18:30:02.548313
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 18:40:01.918770
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 18:50:02.155226
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 19:00:02.055859
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 19:10:02.010999
+An error occurred. Closing browser instance.
+
+
+2019-09-13 19:20:01.733453
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 19:30:02.554272
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 19:40:02.584041
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 19:50:01.779301
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 20:00:02.525400
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 20:10:02.518425
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 20:20:01.776075
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 20:30:02.511297
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 20:40:02.513998
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 20:50:02.534514
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 21:00:02.626878
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 21:10:02.297217
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 21:20:01.846122
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 21:30:02.381628
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 21:40:02.619196
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-13 21:50:01.807235
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 07:00:01.848124
+Morning times successfully checked.
+Located an available slot at 5:10 pm! Sending automated message.
+Afternoon times successfully checked.
+
+
+2019-09-14 07:10:01.778096
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 07:20:01.656642
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 07:30:02.742025
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 07:40:02.511009
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 07:50:02.494561
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 08:00:02.590119
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 08:10:02.399366
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 08:20:02.613499
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 08:30:02.377050
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 08:40:02.329109
+Located an available slot at 6:45 am! Sending automated message.
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 08:50:02.263709
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 09:00:02.394950
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 09:10:01.368078
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 09:20:02.200655
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 09:30:01.656259
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 09:40:02.213340
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 09:50:01.980438
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 10:00:02.535612
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 10:10:02.205148
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 10:20:02.278564
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 10:30:02.459911
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 10:40:02.324651
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 10:50:01.557817
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 11:00:02.174319
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 11:10:01.851911
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 11:20:01.841333
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 11:30:02.565968
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 11:40:01.667445
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 11:50:02.010463
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 12:00:02.584596
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 12:10:02.282941
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 12:20:02.308438
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 12:30:02.722292
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 12:40:01.745114
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 12:50:01.947834
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 13:00:02.375753
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 13:10:02.243466
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 13:20:02.451918
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 13:30:02.234043
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 13:40:01.697604
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 13:50:02.065114
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 14:00:02.554741
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 14:10:01.780219
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 14:20:01.721184
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 14:30:01.472761
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 14:40:02.350966
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 14:50:02.383833
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 15:00:01.667416
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 15:10:01.618912
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 15:20:02.161757
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 15:30:02.341371
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 15:40:01.813120
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 15:50:02.366031
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 16:00:02.372760
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 16:10:01.994564
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 16:20:02.049189
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 16:30:02.614897
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 16:40:02.410117
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 16:50:01.896402
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 17:00:02.258113
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 17:10:02.648841
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 17:20:01.624141
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 17:30:02.734766
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 17:40:02.143955
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 17:50:02.453744
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 18:00:02.555972
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 18:10:02.397426
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 18:20:02.025585
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 18:30:02.503714
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 18:40:01.797441
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 18:50:02.508927
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 19:00:02.825072
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 19:10:02.328294
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 19:20:02.211071
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 19:30:02.698531
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 19:40:02.348359
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 19:50:01.992865
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 20:00:02.791725
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 20:10:02.091943
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 20:20:02.202938
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 20:30:02.597832
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 20:40:02.276301
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 20:50:02.237299
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 21:00:02.799679
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 21:10:02.005087
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 21:20:01.788790
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 21:30:02.536720
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 21:40:01.802109
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-14 21:50:02.489326
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 07:00:01.857773
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 07:10:02.413486
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 07:20:01.817084
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 07:30:02.740590
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 07:40:02.107273
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 07:50:02.610903
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 08:00:02.608648
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 08:10:02.548916
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 08:20:02.664678
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 08:30:02.291288
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 08:40:01.952203
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 08:50:02.296399
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 09:00:02.289084
+An error occurred. Closing browser instance.
+
+
+2019-09-15 09:10:02.487844
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 09:20:02.671049
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 09:30:02.249919
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 09:40:01.896546
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 09:50:01.898826
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 10:00:02.692682
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 10:10:02.470478
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 10:20:02.321505
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 10:30:02.532632
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 10:40:02.702315
+An error occurred. Closing browser instance.
+
+
+2019-09-15 10:50:02.495262
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 11:00:02.764322
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 11:10:02.476612
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 11:20:02.612989
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 11:30:02.666877
+An error occurred. Closing browser instance.
+
+
+2019-09-15 11:40:02.026527
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 11:50:02.635405
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 12:00:02.442365
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 12:10:01.856211
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 12:20:02.240254
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 12:30:02.252317
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 12:40:01.821514
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 12:50:01.950648
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 13:00:02.772978
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 13:10:02.368204
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 13:20:01.961009
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 13:30:02.398417
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 13:40:02.254935
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 13:50:01.770110
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 14:00:02.370428
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 14:10:02.166298
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 14:20:02.676781
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 14:30:02.688929
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 14:40:01.679703
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 14:50:02.673240
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 15:00:02.479772
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 15:10:02.162707
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 15:20:02.032642
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 15:30:02.514063
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 15:40:01.629195
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 15:50:02.011811
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 16:00:02.702850
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 16:10:02.386660
+Morning times successfully checked.
+Located an available slot at 5:10 pm! Sending automated message.
+Afternoon times successfully checked.
+
+
+2019-09-15 16:20:01.998205
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-15 16:30:01.398212
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-15 16:40:01.802573
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-15 16:50:02.196893
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-15 17:00:01.637021
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-15 17:10:02.079068
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-15 17:20:01.466019
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-15 17:30:01.984353
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-15 17:40:01.392662
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-15 17:50:01.798927
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-15 18:00:02.264530
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-15 18:10:01.563850
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 18:20:01.966048
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 18:30:02.554192
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 18:40:01.650097
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 18:50:01.685965
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 19:00:02.470930
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 19:10:02.159579
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 19:20:02.182564
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 19:30:02.772286
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 19:40:02.320148
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 19:50:01.403572
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 20:00:02.355697
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 20:10:02.408803
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 20:20:02.313944
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 20:30:02.310919
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 20:40:01.554550
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 20:50:02.165429
+An error occurred. Closing browser instance.
+
+
+2019-09-15 21:00:02.713501
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 21:10:02.273919
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 21:20:02.409305
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 21:30:02.322714
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 21:40:02.140945
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-15 21:50:02.490386
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 07:00:02.275130
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 07:10:02.509632
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 07:20:01.873904
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 07:30:02.351576
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 07:40:02.530061
+An error occurred. Closing browser instance.
+
+
+2019-09-16 07:50:02.231192
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 08:00:02.430038
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 08:10:01.870305
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 08:20:02.202426
+Morning times successfully checked.
+Located an available slot at 5:10 pm! Sending automated message.
+Afternoon times successfully checked.
+
+
+2019-09-16 08:30:02.689797
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-16 08:40:02.077961
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-16 08:50:01.460314
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-16 09:00:01.981880
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-16 09:10:01.424150
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-16 09:20:01.818418
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-16 09:30:02.379108
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-16 09:40:01.606293
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-16 09:50:01.824555
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 10:00:02.596472
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 10:10:02.061476
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 10:20:01.937798
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 10:30:02.629774
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 10:40:02.342202
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 10:50:02.427319
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 11:00:02.679298
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 11:10:01.596621
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 11:20:02.569719
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 11:30:02.512540
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 11:40:02.461249
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 11:50:01.868986
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 12:00:02.459462
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 12:10:02.333203
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 12:20:02.139231
+An error occurred. Closing browser instance.
+
+
+2019-09-16 12:30:02.763133
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 12:40:01.813741
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 12:50:02.435378
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 13:00:02.431725
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 13:10:02.260834
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 13:20:01.810207
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 13:30:02.509155
+An error occurred. Closing browser instance.
+
+
+2019-09-16 13:40:02.241866
+An error occurred. Closing browser instance.
+
+
+2019-09-16 13:50:02.248448
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 14:00:02.819893
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 14:10:02.045331
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 14:20:02.124913
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 14:30:02.580423
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 14:40:02.514507
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 14:50:02.095103
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 15:00:02.142772
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 15:10:02.329333
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 15:20:01.771545
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 15:30:02.197452
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 15:40:01.974266
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 15:50:02.461967
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 16:00:02.034687
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 16:10:02.362811
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 16:20:02.511920
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 16:30:02.636476
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 16:40:02.392191
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 16:50:02.079957
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 17:00:02.189526
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 17:10:02.589404
+An error occurred. Closing browser instance.
+
+
+2019-09-16 17:20:02.280632
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 17:30:02.120217
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 17:40:02.395461
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 17:50:02.468499
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 18:00:02.470823
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 18:10:02.513919
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 18:20:02.373864
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 18:30:02.596999
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 18:40:01.869027
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 18:50:02.185909
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 19:00:02.165764
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 19:10:01.910370
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 19:20:02.984862
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 19:30:02.188374
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 19:40:02.349970
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 19:50:01.873266
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 20:00:02.336992
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 20:10:01.877487
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 20:20:02.426608
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 20:30:02.734939
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 20:40:02.549730
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 20:50:02.578298
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 21:00:02.586288
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 21:10:01.731980
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 21:20:01.682157
+An error occurred. Closing browser instance.
+
+
+2019-09-16 21:30:02.175065
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-16 21:40:02.153014
+An error occurred. Closing browser instance.
+
+
+2019-09-16 21:50:02.356522
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 07:00:02.260248
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 07:10:02.086925
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 07:20:02.583537
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 07:30:02.518576
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 07:40:01.754846
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 07:50:01.835493
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 08:00:02.381151
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 08:10:02.323047
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 08:20:02.284086
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 08:30:02.438973
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 08:40:02.567344
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 08:50:02.732525
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 09:00:03.006901
+An error occurred. Closing browser instance.
+
+
+2019-09-17 09:10:02.342095
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 09:20:02.445054
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 09:30:01.706984
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 09:40:01.761854
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 09:50:02.055044
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 10:00:02.702097
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 10:10:02.299833
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 10:20:02.155608
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 10:30:02.425745
+An error occurred. Closing browser instance.
+
+
+2019-09-17 10:40:02.331328
+Morning times successfully checked.
+Located an available slot at 5:10 pm! Sending automated message.
+Afternoon times successfully checked.
+
+
+2019-09-17 10:50:02.301584
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-17 11:00:01.921065
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 11:10:02.057547
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 11:20:02.351994
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 11:30:02.463178
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 11:40:02.021286
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 11:50:02.642487
+An error occurred. Closing browser instance.
+
+
+2019-09-17 12:00:02.647590
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 12:10:02.416210
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 12:20:02.015217
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 12:30:02.577311
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 12:40:02.014327
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 12:50:02.316932
+An error occurred. Closing browser instance.
+
+
+2019-09-17 13:00:02.870298
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 13:10:02.038810
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 13:20:02.582529
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 13:30:02.371468
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 13:40:01.738032
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 13:50:02.478144
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 14:00:02.697719
+An error occurred. Closing browser instance.
+
+
+2019-09-17 14:10:02.242979
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 14:20:02.280488
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 14:30:02.629305
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 14:40:02.486300
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 14:50:02.369522
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 15:00:02.560984
+An error occurred. Closing browser instance.
+
+
+2019-09-17 15:10:02.142023
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 15:20:01.997694
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 15:30:02.861420
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 15:40:01.856824
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 15:50:02.633882
+An error occurred. Closing browser instance.
+
+
+2019-09-17 16:00:02.619964
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 16:10:02.124144
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 16:20:01.994012
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 16:30:02.649628
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 16:40:02.514398
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 16:50:02.207180
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 17:00:02.807021
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 17:10:02.527270
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 17:20:02.629257
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 17:30:02.305596
+An error occurred. Closing browser instance.
+
+
+2019-09-17 17:40:02.045206
+Morning times successfully checked.
+Located an available slot at 5:10 pm! Sending automated message.
+Afternoon times successfully checked.
+
+
+2019-09-17 17:50:02.416654
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-17 18:00:02.027699
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-17 18:10:01.308519
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 18:20:02.114527
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 18:30:02.456124
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 18:40:01.792971
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 18:50:02.343366
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 19:00:02.567471
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 19:10:02.223364
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 19:20:02.241807
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 19:30:02.243028
+An error occurred. Closing browser instance.
+
+
+2019-09-17 19:40:02.091326
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 19:50:02.157316
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 20:00:01.452571
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 20:10:02.305800
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 20:20:01.929136
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 20:30:02.012250
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 20:40:01.822590
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 20:50:01.713985
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 21:00:02.450462
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 21:10:02.280222
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 21:20:01.676571
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 21:30:02.383367
+An error occurred. Closing browser instance.
+
+
+2019-09-17 21:40:02.231067
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-17 21:50:01.759187
+An error occurred. Closing browser instance.
+
+
+2019-09-18 07:00:02.321302
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 07:10:02.578654
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 07:20:02.630290
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 07:30:02.371505
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 07:40:02.089467
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 07:50:01.724423
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 08:00:02.570081
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 08:10:02.576699
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 08:20:02.505408
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 08:30:02.635136
+An error occurred. Closing browser instance.
+
+
+2019-09-18 08:40:02.387297
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 08:50:02.282030
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 09:00:02.344766
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 09:10:02.501451
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 09:20:02.237441
+An error occurred. Closing browser instance.
+
+
+2019-09-18 09:30:02.175735
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 09:40:01.987300
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 09:50:01.762006
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 10:00:02.525816
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 10:10:02.283031
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 10:20:02.040854
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 10:30:01.722310
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 10:40:02.565099
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 10:50:02.312195
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 11:00:02.372203
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 11:10:02.242693
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 11:20:02.365496
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 11:30:02.248302
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 11:40:02.312409
+An error occurred. Closing browser instance.
+
+
+2019-09-18 11:50:01.939582
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 12:00:02.300904
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 12:10:01.914534
+An error occurred. Closing browser instance.
+
+
+2019-09-18 12:20:02.535543
+An error occurred. Closing browser instance.
+
+
+2019-09-18 12:30:02.436474
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 12:40:02.621637
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 12:50:02.598652
+An error occurred. Closing browser instance.
+
+
+2019-09-18 13:00:02.400917
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 13:10:01.793405
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 13:20:02.113196
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 13:30:02.573840
+An error occurred. Closing browser instance.
+
+
+2019-09-18 13:40:02.681913
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 13:50:02.510658
+An error occurred. Closing browser instance.
+
+
+2019-09-18 14:00:02.508233
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 14:10:02.510774
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 14:20:02.642087
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 14:30:02.532976
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 14:40:01.836338
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 14:50:02.012343
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 15:00:02.807029
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 15:10:02.010833
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 15:20:01.888896
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 15:30:02.217306
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 15:40:02.590966
+An error occurred. Closing browser instance.
+
+
+2019-09-18 15:50:02.295060
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 16:00:02.175978
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 16:10:02.183466
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 16:20:02.446090
+An error occurred. Closing browser instance.
+
+
+2019-09-18 16:30:02.407109
+An error occurred. Closing browser instance.
+
+
+2019-09-18 16:40:02.227334
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 16:50:02.152622
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 17:00:02.296966
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 17:10:02.125140
+An error occurred. Closing browser instance.
+
+
+2019-09-18 17:20:02.580770
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 17:30:02.747187
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 17:40:02.124455
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 17:50:02.306971
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 18:00:02.811818
+An error occurred. Closing browser instance.
+
+
+2019-09-18 18:10:01.784213
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 18:20:02.468338
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 18:30:02.240098
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 18:40:02.508287
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 18:50:02.288211
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 19:00:02.657604
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 19:10:02.532546
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 19:20:01.498101
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 19:30:02.425927
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 19:40:02.169327
+An error occurred. Closing browser instance.
+
+
+2019-09-18 19:50:01.806736
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 20:00:02.272707
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 20:10:01.558639
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 20:20:02.003588
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 20:30:02.531643
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 20:40:02.237830
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 20:50:01.875955
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 21:00:02.392523
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 21:10:02.135569
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 21:20:02.408075
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 21:30:01.813586
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 21:40:01.559997
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-18 21:50:01.568479
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 07:00:01.935291
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 07:10:02.001113
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 07:20:02.223097
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 07:30:02.845408
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 07:40:01.830104
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 07:50:01.956365
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 08:00:01.797452
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 08:10:01.703174
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 08:20:02.508593
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 08:30:02.787033
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 08:40:02.515709
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 08:50:02.599095
+An error occurred. Closing browser instance.
+
+
+2019-09-19 09:00:02.394272
+An error occurred. Closing browser instance.
+
+
+2019-09-19 09:10:02.396136
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 09:20:02.420267
+An error occurred. Closing browser instance.
+
+
+2019-09-19 09:30:02.484306
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 09:40:02.184854
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 09:50:02.178634
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 10:00:02.572520
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 10:10:02.414380
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 10:20:02.692635
+An error occurred. Closing browser instance.
+
+
+2019-09-19 10:30:02.584209
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 10:40:02.577002
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 10:50:01.748589
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 11:00:02.533948
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 11:10:02.568931
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 11:20:02.612246
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 11:30:02.113666
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 11:40:02.371077
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 11:50:01.782444
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 12:00:02.454952
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 12:10:02.445982
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 12:20:02.024133
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 12:30:02.622682
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 12:40:02.341189
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 12:50:02.220301
+An error occurred. Closing browser instance.
+
+
+2019-09-19 13:00:02.593364
+An error occurred. Closing browser instance.
+
+
+2019-09-19 13:10:02.591058
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 13:20:02.806074
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 13:30:02.392033
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 13:40:02.304972
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 13:50:02.210289
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 14:00:02.251009
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 14:10:02.457066
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 14:20:01.928892
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 14:30:02.296141
+An error occurred. Closing browser instance.
+
+
+2019-09-19 14:40:01.998128
+An error occurred. Closing browser instance.
+
+
+2019-09-19 14:50:01.839701
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 15:00:02.123581
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 15:10:02.039588
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 15:20:01.969392
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 15:30:02.627348
+An error occurred. Closing browser instance.
+
+
+2019-09-19 15:40:02.356058
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 15:50:02.374888
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 16:00:02.286921
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 16:10:01.948705
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 16:20:01.772357
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 16:30:02.749283
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 16:40:02.656528
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 16:50:01.773287
+An error occurred. Closing browser instance.
+
+
+2019-09-19 17:00:02.464322
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 17:10:02.613710
+An error occurred. Closing browser instance.
+
+
+2019-09-19 17:20:02.419199
+An error occurred. Closing browser instance.
+
+
+2019-09-19 17:30:02.342149
+An error occurred. Closing browser instance.
+
+
+2019-09-19 17:40:02.059531
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 17:50:02.150203
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 18:00:02.666823
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 18:10:02.277965
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 18:20:01.798764
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 18:30:02.354976
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 18:40:01.664517
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 18:50:01.638286
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 19:00:02.223724
+An error occurred. Closing browser instance.
+
+
+2019-09-19 19:10:02.083970
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 19:20:02.224244
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 19:30:02.570504
+An error occurred. Closing browser instance.
+
+
+2019-09-19 19:40:01.894446
+An error occurred. Closing browser instance.
+
+
+2019-09-19 19:50:01.888333
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 20:00:01.990108
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 20:10:02.389123
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 20:20:02.182454
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 20:30:02.599009
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 20:40:02.102304
+An error occurred. Closing browser instance.
+
+
+2019-09-19 20:50:02.127822
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 21:00:02.417719
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 21:10:02.730754
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 21:20:01.877576
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 21:30:02.454116
+An error occurred. Closing browser instance.
+
+
+2019-09-19 21:40:02.022191
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-19 21:50:02.280306
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 07:00:02.071947
+Located an available slot at 6:45 am! Sending automated message.
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 07:10:02.116674
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-20 07:20:01.340379
+An error occurred. Closing browser instance.
+
+
+2019-09-20 07:30:02.146672
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 07:40:02.134557
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 07:50:01.613141
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 08:00:02.199771
+An error occurred. Closing browser instance.
+
+
+2019-09-20 08:10:02.155911
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 08:20:01.778689
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 08:30:02.248543
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 08:40:01.891971
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 08:50:02.515082
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 09:00:01.576325
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 09:10:02.317813
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 09:20:02.288930
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 09:30:02.081536
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 09:40:01.451804
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 09:50:01.901439
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 10:00:01.953740
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 10:10:02.226417
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 10:20:01.924470
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 10:30:02.308599
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 10:40:01.534986
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 10:50:02.539181
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 11:00:02.421936
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 11:10:01.528440
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 11:20:01.637336
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 11:30:02.391630
+An error occurred. Closing browser instance.
+
+
+2019-09-20 11:40:01.498126
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 11:50:02.171516
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 12:00:02.340034
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 12:10:02.126765
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 12:20:02.046451
+An error occurred. Closing browser instance.
+
+
+2019-09-20 12:30:02.418019
+An error occurred. Closing browser instance.
+
+
+2019-09-20 12:40:01.729174
+An error occurred. Closing browser instance.
+
+
+2019-09-20 12:50:01.795430
+An error occurred. Closing browser instance.
+
+
+2019-09-20 13:00:02.354341
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 13:10:01.803151
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 13:20:02.365087
+An error occurred. Closing browser instance.
+
+
+2019-09-20 13:30:02.102429
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 13:40:01.567967
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 13:50:02.384071
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 14:00:01.777084
+An error occurred. Closing browser instance.
+
+
+2019-09-20 14:10:01.749025
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 14:20:02.317007
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 14:30:02.524694
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 14:40:02.308556
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 14:50:02.025904
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 15:00:02.131500
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 15:10:01.869608
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 15:20:01.594273
+An error occurred. Closing browser instance.
+
+
+2019-09-20 15:30:02.561946
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 15:40:01.858232
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 15:50:01.711562
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 16:00:02.549515
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 16:10:02.170796
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 16:20:01.839278
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 16:30:02.243841
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 16:40:01.957356
+An error occurred. Closing browser instance.
+
+
+2019-09-20 16:50:02.434061
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 17:00:02.038831
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 17:10:02.217413
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 17:20:02.252364
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 17:30:01.825213
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 17:40:02.309900
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 17:50:02.382821
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 18:00:02.503659
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 18:10:01.964028
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 18:20:02.488295
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 18:30:02.133082
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 18:40:01.727647
+An error occurred. Closing browser instance.
+
+
+2019-09-20 18:50:01.521356
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 19:00:02.220072
+An error occurred. Closing browser instance.
+
+
+2019-09-20 19:10:02.089435
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 19:20:01.792527
+An error occurred. Closing browser instance.
+
+
+2019-09-20 19:30:02.447967
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 19:40:02.107741
+An error occurred. Closing browser instance.
+
+
+2019-09-20 19:50:01.846094
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 20:00:02.102887
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 20:10:01.740593
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 20:20:01.597960
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 20:30:01.816102
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 20:40:02.475892
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 20:50:02.104023
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 21:00:02.187893
+An error occurred. Closing browser instance.
+
+
+2019-09-20 21:10:01.883142
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 21:20:02.467085
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 21:30:02.418141
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 21:40:02.066929
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-20 21:50:01.654145
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 08:00:01.461601
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 08:10:02.063194
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 08:20:02.146709
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 08:30:02.510693
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 08:40:01.571220
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 08:50:01.687979
+An error occurred. Closing browser instance.
+
+
+2019-09-21 09:00:02.304106
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 09:10:02.011517
+An error occurred. Closing browser instance.
+
+
+2019-09-21 09:20:01.481696
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 09:30:02.306037
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 09:40:02.313598
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 09:50:02.099253
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 10:00:02.223081
+An error occurred. Closing browser instance.
+
+
+2019-09-21 10:10:02.289187
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 10:20:02.319265
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 10:30:02.483501
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 10:40:01.813746
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 10:50:01.899250
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 11:00:02.212314
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 11:10:01.869265
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 11:20:01.690051
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 11:30:02.180566
+An error occurred. Closing browser instance.
+
+
+2019-09-21 11:40:01.743295
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 11:50:02.161396
+An error occurred. Closing browser instance.
+
+
+2019-09-21 12:00:02.126366
+An error occurred. Closing browser instance.
+
+
+2019-09-21 12:10:02.073139
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 12:20:01.692000
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 12:30:01.722971
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 12:40:02.435132
+An error occurred. Closing browser instance.
+
+
+2019-09-21 12:50:02.037964
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 13:00:02.235681
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 13:10:02.462212
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 13:20:01.868049
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 13:30:02.301868
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 13:40:01.643843
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 13:50:02.435008
+An error occurred. Closing browser instance.
+
+
+2019-09-21 14:00:01.462145
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 14:10:01.640003
+An error occurred. Closing browser instance.
+
+
+2019-09-21 14:20:02.371663
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 14:30:01.682319
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 14:40:02.066875
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 14:50:02.343117
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 15:00:02.375219
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 15:10:02.504400
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 15:20:01.661307
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 15:30:02.250811
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 15:40:01.783562
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 15:50:01.745433
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 16:00:02.526905
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 16:10:02.476389
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 16:20:01.709222
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 16:30:01.870800
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 16:40:01.726430
+An error occurred. Closing browser instance.
+
+
+2019-09-21 16:50:01.671880
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 17:00:02.572700
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 17:10:01.781322
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 17:20:01.920709
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 17:30:02.364664
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 17:40:02.027354
+An error occurred. Closing browser instance.
+
+
+2019-09-21 17:50:02.090252
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 18:00:02.121756
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 18:10:01.959028
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 18:20:01.597037
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 18:30:01.945663
+An error occurred. Closing browser instance.
+
+
+2019-09-21 18:40:01.401219
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 18:50:01.701328
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 19:00:02.424354
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 19:10:01.947689
+An error occurred. Closing browser instance.
+
+
+2019-09-21 19:20:02.368050
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 19:30:02.229536
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 19:40:02.372314
+An error occurred. Closing browser instance.
+
+
+2019-09-21 19:50:02.003980
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 20:00:02.367980
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 20:10:02.389742
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 20:20:01.491568
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 20:30:02.161819
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 20:40:01.418273
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 20:50:01.846664
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 21:00:02.323772
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 21:10:02.071109
+An error occurred. Closing browser instance.
+
+
+2019-09-21 21:20:02.101094
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 21:30:02.186439
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 21:40:02.002824
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-21 21:50:02.109919
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 08:00:01.713468
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 08:10:01.685786
+An error occurred. Closing browser instance.
+
+
+2019-09-22 08:20:01.943723
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 08:30:02.400632
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 08:40:01.555898
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 08:50:01.678884
+An error occurred. Closing browser instance.
+
+
+2019-09-22 09:00:01.602987
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 09:10:02.219435
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 09:20:01.560803
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 09:30:01.539572
+An error occurred. Closing browser instance.
+
+
+2019-09-22 09:40:01.475706
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 09:50:02.355694
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 10:00:02.363138
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 10:10:02.127389
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 10:20:01.688135
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 10:30:02.524527
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 10:40:02.267795
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 10:50:01.531501
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 11:00:02.182311
+An error occurred. Closing browser instance.
+
+
+2019-09-22 11:10:02.154445
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 11:20:01.834693
+An error occurred. Closing browser instance.
+
+
+2019-09-22 11:30:02.479900
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 11:40:01.653252
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 11:50:02.009829
+An error occurred. Closing browser instance.
+
+
+2019-09-22 12:00:02.354754
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 12:10:02.411991
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 12:20:01.809038
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 12:30:02.615522
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 12:40:01.811192
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 12:50:02.319490
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 13:00:02.237177
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 13:10:02.313109
+An error occurred. Closing browser instance.
+
+
+2019-09-22 13:20:02.253261
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 13:30:02.324912
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 13:40:01.817147
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 13:50:01.975950
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 14:00:02.261105
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 14:10:02.048972
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 14:20:01.616107
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 14:30:01.897091
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 14:40:01.803047
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 14:50:02.267301
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 15:00:01.665133
+An error occurred. Closing browser instance.
+
+
+2019-09-22 15:10:02.107493
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 15:20:02.428426
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 15:30:01.859022
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 15:40:02.059425
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 15:50:02.405572
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 16:00:02.164705
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 16:10:01.839453
+An error occurred. Closing browser instance.
+
+
+2019-09-22 16:20:01.648531
+An error occurred. Closing browser instance.
+
+
+2019-09-22 16:30:02.354771
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 16:40:02.089670
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 16:50:01.979352
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 17:00:02.277733
+An error occurred. Closing browser instance.
+
+
+2019-09-22 17:10:02.290247
+An error occurred. Closing browser instance.
+
+
+2019-09-22 17:20:01.936703
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 17:30:02.247057
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 17:40:02.105334
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 17:50:02.448367
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 18:00:02.515822
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 18:10:01.892505
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 18:20:02.273372
+An error occurred. Closing browser instance.
+
+
+2019-09-22 18:30:02.660871
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 18:40:02.397728
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 18:50:01.976124
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 19:00:02.572491
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 19:10:02.480637
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 19:20:01.968250
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 19:30:02.490756
+An error occurred. Closing browser instance.
+
+
+2019-09-22 19:40:02.490584
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 19:50:02.071331
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 20:00:02.495390
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 20:10:01.868882
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 20:20:02.478603
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 20:30:02.627379
+An error occurred. Closing browser instance.
+
+
+2019-09-22 20:40:02.563608
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 20:50:01.657302
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 21:00:02.329946
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 21:10:02.512620
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 21:20:01.819006
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 21:30:02.661801
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 21:40:01.776218
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-22 21:50:02.028014
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-23 08:00:02.613628
+An error occurred. Closing browser instance.
+
+
+2019-09-23 08:10:02.080465
+Morning times successfully checked.
+Located an available slot at 5:10 pm! Sending automated message.
+Afternoon times successfully checked.
+
+
+2019-09-23 08:20:02.455060
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 08:30:01.949607
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 08:40:01.364703
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 08:50:01.758916
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 09:00:02.223606
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 09:10:01.665500
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 09:20:02.053703
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 09:30:01.468465
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 09:40:01.852190
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 09:50:02.230341
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 10:00:01.630851
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 10:10:02.048371
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 10:20:01.431588
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 10:30:01.862116
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 10:40:02.267456
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 10:50:01.652942
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 11:00:02.239468
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 11:10:01.674423
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 11:20:02.069042
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 11:30:01.527308
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 11:40:01.926676
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 11:50:02.305980
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 12:00:01.779505
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 12:10:02.190554
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 12:20:01.577104
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 12:30:02.012879
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 12:40:01.405325
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 12:50:01.814470
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 13:00:02.226446
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 13:10:01.661669
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 13:20:02.057362
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 13:30:01.505753
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 13:40:01.901343
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 13:50:02.291711
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 14:00:01.705668
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 14:10:02.155404
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 14:20:01.558342
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 14:30:01.999126
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 14:40:01.390066
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 14:50:01.780477
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 15:00:02.194065
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 15:10:01.621204
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 15:20:02.026759
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 15:30:01.445594
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 15:40:01.908089
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 15:50:02.287486
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 16:00:02.295857
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 16:10:01.735682
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 16:20:02.138749
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 16:30:01.539178
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 16:40:01.931137
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 16:50:02.313870
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 17:00:01.752728
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 17:10:02.181636
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 17:20:01.577951
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 17:30:02.009335
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 17:40:01.393961
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 17:50:01.781942
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 18:00:02.333382
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 18:10:01.766472
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 18:20:02.151462
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 18:30:02.029083
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 18:40:01.417233
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 18:50:01.819434
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 19:00:02.230147
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-23 19:10:01.481637
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-23 19:20:02.467079
+An error occurred. Closing browser instance.
+
+
+2019-09-23 19:30:02.639474
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-23 19:40:02.091024
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-23 19:50:02.193737
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-23 20:00:01.807350
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-23 20:10:02.024130
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-23 20:20:01.926690
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-23 20:30:01.922430
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-23 20:40:02.201639
+An error occurred. Closing browser instance.
+
+
+2019-09-23 20:50:01.774302
+An error occurred. Closing browser instance.
+
+
+2019-09-23 21:00:02.281061
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-23 21:10:02.272367
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-23 21:20:02.300247
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-23 21:30:02.554111
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-23 21:40:02.389850
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-23 21:50:01.649972
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 08:00:01.765384
+An error occurred. Closing browser instance.
+
+
+2019-09-24 08:10:01.840331
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 08:20:01.620817
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 08:30:02.587871
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 08:40:01.693859
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 08:50:01.806200
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 09:00:02.240046
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 09:10:01.464057
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 09:20:01.702568
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 09:30:02.584283
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 09:40:01.731281
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 09:50:01.537974
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 10:00:02.457910
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 10:10:01.344667
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 10:20:01.649353
+An error occurred. Closing browser instance.
+
+
+2019-09-24 10:30:02.070132
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 10:40:02.179995
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 10:50:02.447256
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 11:00:02.393296
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 11:10:02.315513
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 11:20:02.304979
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 11:30:01.635074
+An error occurred. Closing browser instance.
+
+
+2019-09-24 11:40:02.203902
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 11:50:01.818238
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 12:00:02.365780
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 12:10:02.353785
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 12:20:02.494926
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 12:30:02.274293
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-24 12:40:02.419602
+Morning times successfully checked.
+Located an available slot at 5:10 pm! Sending automated message.
+Afternoon times successfully checked.
+
+
+2019-09-24 12:50:01.905596
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 13:00:02.246697
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 13:10:01.517852
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 13:20:01.731529
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 13:30:01.974121
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 13:40:01.206526
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 13:50:01.420740
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 14:00:01.689883
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 14:10:01.946480
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 14:20:02.160665
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 14:30:01.383470
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 14:40:01.603803
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 14:50:01.823217
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 15:00:02.076481
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 15:10:01.320070
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 15:20:01.539855
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 15:30:01.937125
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 15:40:02.150984
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 15:50:01.366833
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 16:00:01.632246
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 16:10:01.873842
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 16:20:02.089046
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 16:30:01.312818
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 16:40:01.541944
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 16:50:01.753785
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 17:00:02.253526
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 17:10:01.512019
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 17:20:01.732483
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 17:30:01.965209
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 17:40:02.179259
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 17:50:01.401832
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 18:00:01.620939
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 18:10:01.867999
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 18:20:02.086268
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 18:30:01.318671
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 18:40:01.537925
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 18:50:01.764835
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 19:00:02.043740
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 19:10:01.286617
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 19:20:01.504677
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 19:30:01.749545
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 19:40:01.968221
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 19:50:02.187542
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 20:00:01.403710
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 20:10:01.645498
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 20:20:02.063775
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 20:30:01.468919
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 20:40:01.873099
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 20:50:02.254507
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 21:00:01.670998
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 21:10:02.207427
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 21:20:01.587903
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 21:30:02.073658
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 21:40:01.465795
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-24 21:50:01.864900
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-25 08:00:01.482823
+Morning times successfully checked.
+Located an available slot at 5:10 pm! Sending automated message.
+Afternoon times successfully checked.
+
+
+2019-09-25 08:10:02.212317
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-25 08:20:01.424472
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-25 08:30:01.998448
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-25 08:40:01.221276
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-25 08:50:01.432475
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-25 09:00:01.666520
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-25 09:10:01.919804
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-25 09:20:02.138556
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-25 09:30:01.358106
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-25 09:40:01.569801
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-25 09:50:01.782784
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-25 10:00:02.038523
+Skipping script execution as per 'run_or_not.txt' instruction.
+
+2019-09-25 10:10:01.293575
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 10:20:02.383139
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 10:30:02.454295
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 10:40:01.446296
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 10:50:01.815601
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 11:00:01.916052
+An error occurred. Closing browser instance.
+
+
+2019-09-25 11:10:02.419997
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 11:20:02.372435
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 11:30:02.216472
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 11:40:02.201197
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 11:50:02.431090
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 12:00:02.147360
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 12:10:02.340753
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 12:20:01.850526
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 12:30:02.304985
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 12:40:02.030818
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 12:50:01.894912
+An error occurred. Closing browser instance.
+
+
+2019-09-25 13:00:02.072011
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 13:10:01.640095
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 13:20:01.737414
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 13:30:02.535376
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 13:40:02.432376
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 13:50:01.947723
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 14:00:01.584702
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 14:10:02.068220
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 14:20:01.942825
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 14:30:02.597982
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 14:40:01.852114
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 14:50:01.580846
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 15:00:02.313023
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 15:10:02.454957
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 15:20:01.719298
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 15:30:02.340762
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 15:40:01.905380
+An error occurred. Closing browser instance.
+
+
+2019-09-25 15:50:01.956978
+An error occurred. Closing browser instance.
+
+
+2019-09-25 16:00:02.223673
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 16:10:01.886824
+An error occurred. Closing browser instance.
+
+
+2019-09-25 16:20:02.270292
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 16:30:02.455535
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 16:40:01.598325
+An error occurred. Closing browser instance.
+
+
+2019-09-25 16:50:02.297763
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 17:00:02.120467
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 17:10:01.451265
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 17:20:01.613488
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 17:30:02.821148
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 17:40:01.770821
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 17:50:02.458196
+An error occurred. Closing browser instance.
+
+
+2019-09-25 18:00:01.788500
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 18:10:02.027404
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 18:20:02.484922
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 18:30:02.320786
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 18:40:02.100286
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 18:50:02.046663
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 19:00:02.478746
+An error occurred. Closing browser instance.
+
+
+2019-09-25 19:10:01.696555
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 19:20:02.182726
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 19:30:02.558767
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 19:40:02.302495
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 19:50:01.547007
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 20:00:01.488988
+An error occurred. Closing browser instance.
+
+
+2019-09-25 20:10:01.905819
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 20:20:01.908246
+An error occurred. Closing browser instance.
+
+
+2019-09-25 20:30:02.359806
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-25 20:40:01.367203
+An error occurred. Closing browser instance.
+
+
+2019-09-25 20:50:02.109861
+An error occurred. Closing browser instance.
+
+
+2019-09-25 21:00:02.304891
+An error occurred. Closing browser instance.
+
+
+2019-09-25 21:10:02.227701
+An error occurred. Closing browser instance.
+
+
+2019-09-25 21:20:01.569594
+An error occurred. Closing browser instance.
+
+
+2019-09-25 21:30:02.520295
+An error occurred. Closing browser instance.
+
+
+2019-09-25 21:40:02.035635
+An error occurred. Closing browser instance.
+
+
+2019-09-25 21:50:01.929139
+An error occurred. Closing browser instance.
+
+
+2019-09-26 08:00:01.913208
+An error occurred. Closing browser instance.
+
+
+2019-09-26 08:10:02.281434
+An error occurred. Closing browser instance.
+
+
+2019-09-26 08:20:01.779949
+An error occurred. Closing browser instance.
+
+
+2019-09-26 08:30:02.475824
+An error occurred. Closing browser instance.
+
+
+2019-09-26 08:40:01.856432
+An error occurred. Closing browser instance.
+
+
+2019-09-26 08:50:02.409464
+An error occurred. Closing browser instance.
+
+
+2019-09-26 09:00:02.550211
+An error occurred. Closing browser instance.
+
+
+2019-09-26 09:10:02.067593
+An error occurred. Closing browser instance.
+
+
+2019-09-26 09:20:01.874618
+An error occurred. Closing browser instance.
+
+
+2019-09-26 09:30:02.302255
+An error occurred. Closing browser instance.
+
+
+2019-09-26 09:40:01.902192
+An error occurred. Closing browser instance.
+
+
+2019-09-26 09:50:02.416367
+An error occurred. Closing browser instance.
+
+
+2019-09-26 10:00:02.767325
+An error occurred. Closing browser instance.
+
+
+2019-09-26 10:10:02.547932
+An error occurred. Closing browser instance.
+
+
+2019-09-26 10:20:02.355839
+An error occurred. Closing browser instance.
+
+
+2019-09-26 10:30:02.381803
+An error occurred. Closing browser instance.
+
+
+2019-09-26 10:40:01.762457
+An error occurred. Closing browser instance.
+
+
+2019-09-26 10:50:02.339026
+An error occurred. Closing browser instance.
+
+
+2019-09-26 11:00:02.700029
+An error occurred. Closing browser instance.
+
+
+2019-09-26 11:10:02.522906
+An error occurred. Closing browser instance.
+
+
+2019-09-26 11:20:02.273273
+An error occurred. Closing browser instance.
+
+
+2019-09-26 11:30:02.333841
+An error occurred. Closing browser instance.
+
+
+2019-09-26 11:40:01.771130
+An error occurred. Closing browser instance.
+
+
+2019-09-26 11:50:02.376923
+An error occurred. Closing browser instance.
+
+
+2019-09-26 12:00:02.553383
+An error occurred. Closing browser instance.
+
+
+2019-09-26 12:10:02.236857
+An error occurred. Closing browser instance.
+
+
+2019-09-26 12:20:01.994386
+An error occurred. Closing browser instance.
+
+
+2019-09-26 12:30:02.372509
+An error occurred. Closing browser instance.
+
+
+2019-09-26 12:40:01.983073
+An error occurred. Closing browser instance.
+
+
+2019-09-26 12:50:01.624097
+An error occurred. Closing browser instance.
+
+
+2019-09-26 13:00:02.645411
+An error occurred. Closing browser instance.
+
+
+2019-09-26 13:10:02.504875
+An error occurred. Closing browser instance.
+
+
+2019-09-26 13:20:01.691226
+An error occurred. Closing browser instance.
+
+
+2019-09-26 13:30:02.330562
+An error occurred. Closing browser instance.
+
+
+2019-09-26 13:40:02.321146
+An error occurred. Closing browser instance.
+
+
+2019-09-26 13:50:01.965394
+An error occurred. Closing browser instance.
+
+
+2019-09-26 14:00:02.744826
+An error occurred. Closing browser instance.
+
+
+2019-09-26 14:10:01.754252
+An error occurred. Closing browser instance.
+
+
+2019-09-26 14:20:02.396823
+An error occurred. Closing browser instance.
+
+
+2019-09-26 14:30:02.578988
+An error occurred. Closing browser instance.
+
+
+2019-09-26 14:40:02.548668
+An error occurred. Closing browser instance.
+
+
+2019-09-26 14:50:02.242133
+An error occurred. Closing browser instance.
+
+
+2019-09-26 15:00:02.525590
+An error occurred. Closing browser instance.
+
+
+2019-09-26 15:10:02.404295
+An error occurred. Closing browser instance.
+
+
+2019-09-26 15:20:02.073112
+An error occurred. Closing browser instance.
+
+
+2019-09-26 15:30:02.313998
+An error occurred. Closing browser instance.
+
+
+2019-09-26 15:40:01.965389
+An error occurred. Closing browser instance.
+
+
+2019-09-26 15:50:01.834284
+An error occurred. Closing browser instance.
+
+
+2019-09-26 16:00:02.406348
+An error occurred. Closing browser instance.
+
+
+2019-09-26 16:10:02.409657
+An error occurred. Closing browser instance.
+
+
+2019-09-26 16:20:01.936358
+An error occurred. Closing browser instance.
+
+
+2019-09-26 16:30:02.876003
+An error occurred. Closing browser instance.
+
+
+2019-09-26 16:40:02.601467
+An error occurred. Closing browser instance.
+
+
+2019-09-26 16:50:02.184900
+An error occurred. Closing browser instance.
+
+
+2019-09-26 17:00:02.473026
+An error occurred. Closing browser instance.
+
+
+2019-09-26 17:10:02.201859
+An error occurred. Closing browser instance.
+
+
+2019-09-26 17:20:01.761063
+An error occurred. Closing browser instance.
+
+
+2019-09-26 17:30:02.675655
+An error occurred. Closing browser instance.
+
+
+2019-09-26 17:40:02.571391
+An error occurred. Closing browser instance.
+
+
+2019-09-26 17:50:02.051700
+An error occurred. Closing browser instance.
+
+
+2019-09-26 18:00:02.731252
+An error occurred. Closing browser instance.
+
+
+2019-09-26 18:10:02.471360
+An error occurred. Closing browser instance.
+
+
+2019-09-26 18:20:02.445902
+An error occurred. Closing browser instance.
+
+
+2019-09-26 18:30:02.595016
+An error occurred. Closing browser instance.
+
+
+2019-09-26 18:40:02.321852
+An error occurred. Closing browser instance.
+
+
+2019-09-26 18:50:02.083196
+An error occurred. Closing browser instance.
+
+
+2019-09-26 19:00:02.436402
+An error occurred. Closing browser instance.
+
+
+2019-09-26 19:10:02.401964
+An error occurred. Closing browser instance.
+
+
+2019-09-26 19:20:02.242339
+An error occurred. Closing browser instance.
+
+
+2019-09-26 19:30:02.578543
+An error occurred. Closing browser instance.
+
+
+2019-09-26 19:40:02.110040
+An error occurred. Closing browser instance.
+
+
+2019-09-26 19:50:02.355297
+An error occurred. Closing browser instance.
+
+
+2019-09-26 20:00:02.436198
+An error occurred. Closing browser instance.
+
+
+2019-09-26 20:10:02.383467
+An error occurred. Closing browser instance.
+
+
+2019-09-26 20:20:01.788148
+An error occurred. Closing browser instance.
+
+
+2019-09-26 20:30:02.746643
+An error occurred. Closing browser instance.
+
+
+2019-09-26 20:40:02.252638
+An error occurred. Closing browser instance.
+
+
+2019-09-26 20:50:01.964911
+An error occurred. Closing browser instance.
+
+
+2019-09-26 21:00:01.635571
+An error occurred. Closing browser instance.
+
+
+2019-09-26 21:10:01.893306
+An error occurred. Closing browser instance.
+
+
+2019-09-26 21:20:01.647188
+An error occurred. Closing browser instance.
+
+
+2019-09-26 21:30:02.833572
+An error occurred. Closing browser instance.
+
+
+2019-09-26 21:40:02.584577
+An error occurred. Closing browser instance.
+
+
+2019-09-26 21:50:01.949343
+An error occurred. Closing browser instance.
+
+
+2019-09-27 08:00:02.621277
+An error occurred. Closing browser instance.
+
+
+2019-09-27 08:10:01.956689
+An error occurred. Closing browser instance.
+
+
+2019-09-27 08:20:01.807594
+An error occurred. Closing browser instance.
+
+
+2019-09-27 08:30:02.735055
+An error occurred. Closing browser instance.
+
+
+2019-09-27 08:40:02.384671
+An error occurred. Closing browser instance.
+
+
+2019-09-27 08:50:02.141782
+An error occurred. Closing browser instance.
+
+
+2019-09-27 09:00:01.973035
+An error occurred. Closing browser instance.
+
+
+2019-09-27 09:10:01.884369
+An error occurred. Closing browser instance.
+
+
+2019-09-27 09:20:01.741315
+An error occurred. Closing browser instance.
+
+
+2019-09-27 09:30:02.390603
+An error occurred. Closing browser instance.
+
+
+2019-09-27 09:40:02.087171
+An error occurred. Closing browser instance.
+
+
+2019-09-27 09:50:02.514420
+An error occurred. Closing browser instance.
+
+
+2019-09-27 10:00:02.690059
+An error occurred. Closing browser instance.
+
+
+2019-09-27 10:10:02.053281
+An error occurred. Closing browser instance.
+
+
+2019-09-27 10:20:01.927866
+An error occurred. Closing browser instance.
+
+
+2019-09-27 10:30:02.212845
+An error occurred. Closing browser instance.
+
+
+2019-09-27 10:40:01.832098
+An error occurred. Closing browser instance.
+
+
+2019-09-27 10:50:02.510640
+An error occurred. Closing browser instance.
+
+
+2019-09-27 11:00:02.628365
+An error occurred. Closing browser instance.
+
+
+2019-09-27 11:10:02.382664
+An error occurred. Closing browser instance.
+
+
+2019-09-27 11:20:02.193178
+An error occurred. Closing browser instance.
+
+
+2019-09-27 11:30:02.191506
+An error occurred. Closing browser instance.
+
+
+2019-09-27 11:40:01.869918
+An error occurred. Closing browser instance.
+
+
+2019-09-27 11:50:01.751314
+An error occurred. Closing browser instance.
+
+
+2019-09-27 12:00:02.700477
+An error occurred. Closing browser instance.
+
+
+2019-09-27 12:10:02.176700
+An error occurred. Closing browser instance.
+
+
+2019-09-27 12:20:01.851273
+An error occurred. Closing browser instance.
+
+
+2019-09-27 12:30:02.803022
+An error occurred. Closing browser instance.
+
+
+2019-09-27 13:34:04.582809
+An error occurred. Closing browser instance.
+
+
+2019-09-27 13:35:01.553153
+An error occurred. Closing browser instance.
+
+
+2019-09-27 13:36:01.489028
+Morning times successfully checked.
+An error occurred. Closing browser instance.
+
+
+2019-09-27 13:36:33.481279
+Morning times successfully checked.
+Afternoon times successfully checked.
+
+
+2019-09-27 13:52:19.561680
+Morning times successfully checked.
+Afternoon times successfully checked.

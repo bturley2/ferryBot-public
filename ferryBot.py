@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # ******************************************************************************
 # *** REQUIRED DEPENDENCIES ***
 # -- selenium python library
@@ -34,20 +35,20 @@ def check_available_times(driver, file, ferry_time = '8:00 am'):
         print(item.text)
         if (str(item.text) == ferry_time):
             print('Found ' + ferry_time + '!')
-            file.write('Located an available slot at ' + ferry_time + '! Sending automated message.')
+            file.write('Located an available slot at ' + ferry_time + '! Sending automated message.\n')
             return True
 
 # sends a sms to the specified phone number
 def send_sms(message_text):
-    account_sid = 'AC019bcf8e8c79af5f60533a93e3a602f1'
-    auth_token = '3c96ad11e6c8572f8ff8a1be2ff59e4c'
+    account_sid = ''
+    auth_token = ''
     client = Client(account_sid, auth_token)
 
     client.messages \
                     .create(
                          body= message_text,
-                         from_='+12537991173',
-                         to='+12533151770'
+                         from_='+',
+                         to='+'
                      )
 
 # uses calendar to figure out how many weeks are left in the month
@@ -62,6 +63,40 @@ def num_weeks_left(driver):
         select_next_week(driver)
         todays_date += 7
 
+# iterates through each week remaining in this month
+def check_this_month(weeks, driver, file, month="this", time_check="8:00 am"):
+    
+    # weeks=[True, True, True, True, True]
+
+    successful = False
+
+    todays_date = int(time.strftime('%d'))
+
+    # make sure to start at the correct point
+    if month == 'next':
+        starting_index = 0
+    else:
+        starting_index = todays_date // 7
+
+
+    # process each week that was marked as True
+    for i in range(starting_index, len(weeks)):
+        print('--Accessing Week number: ' + str(i + 1) + "--")
+
+        # click next week for all weeks after the first
+        if (i > starting_index or month == 'next'):
+            select_next_week(driver)
+
+        if weeks[i]:
+            if check_available_times(driver, file, time_check):
+                send_sms("Week " + str(i + 1) + " of " + month + " month is available at " + time_check + "!")
+                successful = True
+        else:
+            print("Skipping this week as it has been marked as 'False!'")
+
+    return successful  
+
+
 
 # ******************************************************************************
 # *** MAIN CONTROL FUNCTION ***
@@ -72,9 +107,22 @@ def main():
     headless = True     #default is True
     successful = False  #default is False
 
+    # check each week marked as True
+    # ex: marking [True, True, False, False, False] will make the program 
+    # only check for openings in the first two weeks of that month
+    # note -- The size of this array can vary, if a month only has 4 weeks,
+    # then you only need to put 4 True/False values inside
+    morning_weeks_this_month = [False, False, False, False, False]
+    morning_weeks_next_month = [False, False, False, False]
+
+    afternoon_weeks_this_month = [False, False, False, False, True]
+    afternoon_weeks_next_month = [False, True, False, False]
+
 
     # append to error_log.txt file and print current time of this script running
+    # file = open('/home/ec2-user/ferryPython/error_log.txt', 'a')
     file = open('error_log.txt', 'a')
+
     file.write('\n\n' + str(datetime.datetime.now()) + '\n')
 
 
@@ -95,7 +143,7 @@ def main():
         # ******************************************************************
         # *** CHECKING MORNINGS ***
 
-        print('** Checking Morning Times: **')
+        print('*** Checking Morning Times: ***')
 
         driver.get("http://www.kitsaptransit.com/fast-ferry-reservations")
 
@@ -109,42 +157,28 @@ def main():
         elem = driver.find_element_by_xpath("/html/body/div/div[3]/div[3]/div[1]")
         elem.click()
 
+        print("chose bremerton -> seattle")
 
         # choose 1 adult passenger
-        elem = driver.find_element_by_xpath('//*[@id="ember601"]')
+        elem = driver.find_element_by_xpath('//*[@id="ember607"]')
         elem.clear()
         elem.send_keys("1")
+
+        print("input 1")
 
         # click "choose times"
         elem = driver.find_element_by_xpath("/html/body/div/div[3]/div[9]")
         elem.click()
 
-        # iterate through the weeks remaining until we are in the next month
-        num_weeks_left(driver)
 
-
-        # 1st week
-        if check_available_times(driver, file):
-            send_sms("1st Week of September is available at 8:00 am!")
+        if check_this_month(morning_weeks_this_month, driver, file, time_check="6:45 am"):
             successful = True
 
-        # 2nd week
-        select_next_week(driver)
-        if check_available_times(driver, file):
-            send_sms("2nd Week of September is available at 8:00 am!")
+        print("\nNow Checking Weeks of next month:")
+
+        if check_this_month(morning_weeks_next_month, driver, file, month="next"):
             successful = True
 
-        # 3rd week
-        select_next_week(driver)
-        if check_available_times(driver, file):
-            send_sms("3rd Week of September is available at 8:00 am!")
-            successful = True
-
-        # 4th week
-        select_next_week(driver)
-        if check_available_times(driver, file):
-            send_sms("4th Week of September is available at 8:00 am!")
-            successful = True
 
         file.write('Morning times successfully checked.\n')
         
@@ -154,7 +188,7 @@ def main():
         # ******************************************************************
         # *** CHECKING AFTERNOONS ***
 
-        print('\n** Checking Afternoon Times: **')
+        print('\n*** Checking Afternoon Times: ***')
 
         driver.get("http://www.kitsaptransit.com/fast-ferry-reservations")
         driver.set_window_size(1440, 900)
@@ -171,7 +205,7 @@ def main():
         elem.click()
 
         # choose 1 adult passenger
-        elem = driver.find_element_by_xpath('//*[@id="ember601"]')
+        elem = driver.find_element_by_xpath('//*[@id="ember607"]')
         elem.clear()
         elem.send_keys("1")
 
@@ -179,33 +213,16 @@ def main():
         elem = driver.find_element_by_xpath("/html/body/div/div[3]/div[9]")
         elem.click()
 
-        # iterate through the weeks remaining until we are in the next month
-        num_weeks_left(driver)
-
-        # 1st week
-        if check_available_times(driver, file, '5:10 pm'):
-            send_sms("1st Week of September is available at 5:10 pm!")
+        if check_this_month(afternoon_weeks_this_month, driver, file, time_check="5:10 pm"):
             successful = True
 
-        # 2nd week
-        select_next_week(driver)
-        if check_available_times(driver, file, '5:10 pm'):
-            send_sms("2nd Week of September is available at 5:10 pm!")
-            successful = True
+        print("\nNow Checking Weeks of next month:")
 
-        # 3rd week
-        select_next_week(driver)
-        if check_available_times(driver, file, '5:10 pm'):
-            send_sms("3rd Week of September is available at 5:10 pm!")
-            successful = True
-
-        # 4th week
-        select_next_week(driver)
-        if check_available_times(driver, file, '5:10 pm'):
-            send_sms("4th Week of September is available at 5:10 pm!")
+        if check_this_month(afternoon_weeks_next_month, driver, file, month="next", time_check="5:10 pm"):
             successful = True
 
         file.write('Afternoon times successfully checked.\n')
+
         
     except:
         file.write('An error occurred. Closing browser instance.\n')
@@ -228,6 +245,7 @@ def main():
 # *** PROGRAM EXECUTION ***
 
 # read in whether or not to execute the script
+# infile = open('/home/ec2-user/ferryPython/run_or_not.txt', 'r')
 infile = open('run_or_not.txt', 'r')
 instruction = infile.read()
 infile.close()
@@ -238,13 +256,17 @@ infile.close()
 if instruction == 'run\n' or instruction == 'run':
     print('***RUNNING SCRIPT***')
     if main():
+        # outfile = open('/home/ec2-user/ferryPython/run_or_not.txt', 'w')
         outfile = open('run_or_not.txt', 'w')
+
         outfile.write("don't run")
         outfile.close()
 else:
     print("Skipping script execution as per 'run_or_not.txt' instruction.")
 
+    # file = open('/home/ec2-user/ferryPython/error_log.txt', 'a')
     file = open('error_log.txt', 'a')
+
     file.write('\n\n' + str(datetime.datetime.now()) + '\n')
     file.write("Skipping script execution as per 'run_or_not.txt' instruction.")
     file.close()
